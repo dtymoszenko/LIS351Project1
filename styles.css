@@ -3,6 +3,10 @@ body {
   padding: 20px; /*add space (padding) of 20px around page content */
 }
 
+img {
+  padding: 15px;  
+}  
+
 .movieParagraph {
   font-size: 25px;
   font-style: italic; /* Changing font style */
